@@ -1,3 +1,7 @@
+#ide dirs
+.idea
+.vscode
+
 # Prerequisites
 *.d
 
